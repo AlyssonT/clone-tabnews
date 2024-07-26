@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "test": "jest",
-    "text:watch": "jest --watch"
+    "test:watch": "jest --watch"
   },
   "author": "",
   "license": "MIT",
